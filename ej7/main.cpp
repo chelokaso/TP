@@ -48,6 +48,7 @@ int main() {
     for(int i=0;i<total;i++){
        cout<<"  "<<personas[i].orden << " " << personas[i].anio <<" " <<personas[i].nombre <<endl;
     }
+    delete[] personas;
     cout<<"la persona mas joven es del año "<<maximo<<" y la persona mas adulta es del año "<<minimo;
     return 0;
 }
