@@ -2,4 +2,4 @@ Hola profe! La verdad que el cpp principal esta un poquito desprolijo porque est
 Integrantes:
 - Tomás Pasutti
 - Marcelo Acosta
-- Facundo 
+- Facundo Grigolato
